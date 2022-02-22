@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A disquisition upon our Saviour's sanction of tithes, Matth. 23, 23 and Luke 11, 42 wherein that whole case is most impartially stated and resolved according to express scripture for the satisfaction of all scruples.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27597</idno>
+            <idno type="STC">Wing B2139</idno>
+            <idno type="STC">ESTC R34408</idno>
+            <idno type="EEBO-CITATION">14398091</idno>
+            <idno type="OCLC">ocm 14398091</idno>
+            <idno type="VID">102303</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102303)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1056:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A disquisition upon our Saviour's sanction of tithes, Matth. 23, 23 and Luke 11, 42 wherein that whole case is most impartially stated and resolved according to express scripture for the satisfaction of all scruples.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Th. Dawks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Beverley.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXIII, 23.</term>
+               <term>Bible. --  N.T. --  Luke XI, 42.</term>
+               <term>Tithes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102303:1"/>
+            <pb facs="tcp:102303:1" rendition="simple:additions"/>
+            <p> A Diſquiſition Upon our Saviour's <hi>SANCTION</hi> OF TITHES, <hi>Matth.</hi> 23. 23. and <hi>Luke</hi> 11, 42.</p>
+            <p>WHEREIN That whole CASE is moſt Impartially <hi>Stated</hi> and <hi>Reſolved</hi> According to Expreſs SCRIPTURE: FOR THE Satisfaction of All SCRUPLES.</p>
+            <p>Entred according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Th. Dawks,</hi> 1685.</p>
+            <pb facs="tcp:102303:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:102303:2"/>
+            <head>A DISQUISITION UPON TITHES.</head>
+            <epigraph>
+               <bibl>From <hi>Mat.</hi> 23. 23. and <hi>Luke</hi> 11. 42.</bibl>
+               <q>Wo unto you Scribes and Phariſees, Hy<g ref="char:EOLhyphen"/>pocrites; for you pay Tithe of Mint, Aniſe, Cummin,<note n="*" place="margin">Luke.</note> and Rue, and all manner of Herbs; and have omitted the weightier matters of the Law, Judgment, Mercy and Faith, and<note n="*" place="margin">Luke.</note> paſs over the Love of God; Theſe ought ye to have done, and not to have left the other undone.</q>
+            </epigraph>
+            <p>THat we may arrive to the Argument ariſing from theſe Words, their full Senſe and Ex<g ref="char:EOLhyphen"/>planation lies thus:</p>
+            <p>Our Saviour in the Courſe of his ſevere Denounciations upon the <hi>Scribes</hi> and <hi>Phariſees,</hi> and while he was with a juſt Indignation expoſing them,
+<pb n="2" facs="tcp:102303:3"/> charges their foul Hypocriſy, that they <hi>Tith'd Mint, Aniſe,</hi> &amp;c. and <hi>paſſed over Judgment, Mercy,</hi> &amp;c. <hi>the weightier matters of the Law,</hi> and then ſubjoyns this Cen<g ref="char:EOLhyphen"/>ſure; <hi>Theſe Things ought ye to have done, and not to leave the other undone.</hi>
+            </p>
+            <p>Now I allow, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be underſtood of the paying, not the Sacerdotal Receiving, or Magi<g ref="char:EOLhyphen"/>ſtratical Adjudication of <hi>Tithes;</hi> Although the <hi>Scribes</hi> and <hi>Phariſees</hi> being moſtly Prieſts, and of the <hi>Sanhedrim,</hi> ſome Interpreters incline to that Senſe of Receiving, or Adjudication of <hi>Tithes,</hi> which ſeems to raiſe the Senſe ſomewhat higher, and indeed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Heb. 7. 5. ſignifies to receive <hi>Tithes;</hi> but then it is applyed to to the people <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: to <hi>receive Tithes of the people,</hi> and not to the Things <hi>Tith'd,</hi> as here; I rather therefore underſtand them in that <hi>Phariſees</hi> Senſe, <hi>Luke</hi> 18. 12. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I pay Tithes of all I poſ<g ref="char:EOLhyphen"/>ſeſs,</hi> proper to a <hi>Phariſee</hi> at large. Again the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or, <hi>theſe Things, ought ye to have done;</hi> I refer to the nea<g ref="char:EOLhyphen"/>reſt <hi>Judment, Mercy,</hi> &amp;c. and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>thoſe Things ought you not to leave undone,</hi> to the furtheſt of <hi>Mint, Aniſe, Cummin,</hi> &amp;c. Although Interpreters think each re<g ref="char:EOLhyphen"/>ferrible to each, which would ſtill aggrandize our Sa<g ref="char:EOLhyphen"/>viours Senſe in Favour of <hi>Tithes:</hi> But I rather Inter<g ref="char:EOLhyphen"/>pret them thus; <hi>Theſe weightier Things ye ought</hi> in the firſt place, and with a higher Intention upon the Things themſelves to have done, and the other, <hi>Tithing Mint, Cummin;</hi> in regard of the Authority of the Law-giver, and the Equity of his Laws, even to every iota of them, <hi>ought ye not to leave undone.</hi>
+            </p>
+            <p>Taking then the Words with the leaſt Favour to <hi>Tithes;</hi> They muſt needs amount to this, our Lord at that very Time, when he had the greateſt Provocation from the Hypocriſy of the <hi>Phariſees,</hi> (which he was ſo ſharply chaſtiſing) preferring the minuteſt parts of <hi>Tithing,</hi> above the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> and when he was com<g ref="char:EOLhyphen"/>paring
+<pb n="3" facs="tcp:102303:3"/> Things of ſo puiſne a Conſideration, as <hi>Tithing Mint, Aniſe,</hi> &amp;c. with thoſe Maſſive Duties of <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs, Judgment;</hi> yet, he ſaw ſomething in theſe ſo pe<g ref="char:EOLhyphen"/>tite Obſervations of <hi>Tithing,</hi> ſome Foundation that they reſted upon, of ſo huge Importance and Conſe<g ref="char:EOLhyphen"/>quence, that the ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ought</hi> he applys to the do<g ref="char:EOLhyphen"/>ing the <hi>weightier things of the Law,</hi> or to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he applys alſo to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or the not <hi>leaving undone</hi> thoſe ſmalleſt Punctillo's of paying <hi>Tithes:</hi> at the leaſt by the Frame of his Speech, It is neceſſarily ſo extended: And thus by his own proper Sanction the payment of Tithes, even to the ſmalleſt particles of Juſtice therein, he Eſtabliſhes.</p>
+            <p>But becauſe notwithſtanding all that hath been yet ſaid, it may ſeem a Permiſſion rather than a Sanction or Injunction, I ſhall enforce what I have already ſaid by this Argument.</p>
+            <p>
+               <q rend="margQuotes">That which our Lord in the moſt minute Inſtances of obſervance gives the very ſame Sanction to, that he does to the more <hi>weighty Duties of the Law,</hi> that he does not only permit but enjoyn: But to the minu<g ref="char:EOLhyphen"/>teſt Inſtances of paying <hi>Tithes,</hi> he gives the ſame Sanction, as to the more <hi>weighty</hi> parts of the <hi>Law;</hi> therefore he does not only permit, but enjoyn the payment of <hi>Tithes.</hi>
+               </q>
+            </p>
+            <p>That our Lord confirm'd all the <hi>weighty</hi> parts of the <hi>Law</hi> with his own Sanction, is undeniable; if therefore he fixes the ſame <hi>ought</hi> upon the payment of <hi>Tithes</hi> in the ſmalleſt Inſtances, as he does upon the <hi>weighty Things of the Law,</hi> he then by his own Sanction Eſta<g ref="char:EOLhyphen"/>bliſhes the one with the other; And if he allowed that deference to the ſmalleſt Inſtances of Duty in the Pay<g ref="char:EOLhyphen"/>ment of <hi>Tithes,</hi> to <hi>Mint</hi> and <hi>Cummin,</hi> what by way of proportion would he have allowed to the more Bulky, and weighty Inſtances of payment of <hi>Tithes;</hi> For the <hi>Tithing</hi> of <hi>Mint</hi> and <hi>Cummin,</hi> and the neglecting
+<pb n="4" facs="tcp:102303:4"/> of the more conſiderable <hi>Seeds of the Land</hi> would have been great Hypocriſy, if the <hi>Phariſees</hi> had been guilty of it; even as the neglecting or <hi>paſſing over Judgment</hi> and <hi>Mercy</hi> was; and the <hi>Robbing</hi> of <hi>God</hi> in them had been much more worthy of being rancked with the <hi>paſſing over</hi> JUDGMENT <hi>and</hi> MERCY, thoſe more <hi>weightie Things of the LAW,</hi> then <hi>Mint,</hi> and <hi>Cummin</hi> could amount to. But now as the <hi>minu<g ref="char:EOLhyphen"/>tiae</hi> of <hi>Tithing</hi> were only in this Caſe under our Sa<g ref="char:EOLhyphen"/>viours Eye, ſo his Sanction is upon them equally, not as to the Things themſelves, for ſo do they infinitely outweigh one another, but as to the general obligation of Duty. Seeing we muſt not willfully <hi>break the Law in one point,</hi> or in one of its <hi>leaſt Commandements,</hi> in re<g ref="char:EOLhyphen"/>gard of the <hi>Authority of the Law-giver,</hi> and the <hi>general Equity of his Laws,</hi> as was ſaid before, though the mat<g ref="char:EOLhyphen"/>ters of Obedience do ſo much preponderate one to another.</p>
+            <p>Now that our Saviours <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>ought,</hi> upon both is undeniable from the Text, for to make up the Senſe it neceſſarily communicates it ſelf to the one as to the other; and as the one is to be done with a more So<g ref="char:EOLhyphen"/>lemn Addreſs of the Soul, ſo the other is not to be left undone in its juſt place and Seaſon.</p>
+            <p>But having proceeded thus far, I muſt now conteſt a more weighty Objection; that is, This Injunction of our Lord was Commenſurate to the Time, <hi>Moſes</hi> his Law was to continue in full Force and Strength; but aſſoon as that Expired, which was at the Death of Chriſt, then did that Precept of <hi>Tithing</hi> expire and naturally go off with the whole Body of <hi>Moſes</hi> his <hi>Ce<g ref="char:EOLhyphen"/>remonial Law,</hi> with the <hi>Sacrifices</hi> and <hi>Prieſt-hood</hi> of that Law.</p>
+            <p>In Anſwer to this Objection, I ſhall firſt argue Ne<g ref="char:EOLhyphen"/>gatively, and then Affirmatively; and ſo proceed to a further debate upon each Argument.</p>
+            <pb n="5" facs="tcp:102303:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>1</label> Firſt then, I thus argue Negatively. <q rend="margQuotes">That which our Lord upon ſo juſt an occaſion, and even ſo great a Provocation, as the Hypocriſy the <hi>Phariſees</hi> committed on theſe Punctillo's of <hi>Tithing</hi> to compenſate for their <hi>paſſing over Judgment,</hi> &amp;c. yet derogated nothing in the leaſt Iota from, as He did from other parts of <hi>Moſes his Law,</hi> in that he ſaw no juſt Reaſon on any Account for the Abrogation of it at his Death. But he Derogated not in the leaſt Iota from the payment of <hi>Tithes,</hi> as from other parts of <hi>Moſes his Law,</hi> on ſo juſt an oc<g ref="char:EOLhyphen"/>caſion, and ſo great a Provocation, therefore he ſaw nothing in it for which it ought to be Abrogated at his Death with ſuch other parts of <hi>Moſes his Law.</hi>
+               </q>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>2</label> In the ſecond place I argue thus Affirmatively. <q rend="margQuotes">That which our Lord did not ſo Remonſtrate to as to other parts of <hi>Moſes his Law,</hi> on ſo juſt an occaſion and provocation, in that he ſaw ſomething more valuable, than that it ſhould be Abrogated with other parts of <hi>Moſes his Law,</hi> and <hi>Jewiſh</hi> Obſervances at his Death.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">But in this Caſe our Lord Remonſtrated nothing againſt payment of <hi>Tithes</hi> in the ſmalleſt Inſtances; therefore he ſaw ſomething more valuable than that it ſhould be Abrogated with other parts of <hi>Moſes his Law,</hi> and <hi>Jewiſh</hi> Obſervances at his Death.</q>
+            </p>
+            <p>In both theſe Arguments I have placed the ſtreſs not upon the Sanction, I have juſt before made Evi<g ref="char:EOLhyphen"/>dent our Lord gave to the <hi>Law of Tithes,</hi> becauſe I pre<g ref="char:EOLhyphen"/>ſum'd it might be ſuppoſed only Temporary as other parts of <hi>Moſes his Law;</hi> But the ſtreſs is placed upon the Treaty, our Lord gave to this part of <hi>Moſes his Law,</hi> very different from other parts of it to be Abro<g ref="char:EOLhyphen"/>gated at his Death; and that together with the San<g ref="char:EOLhyphen"/>ction, he gave to this particular Law, he made no Ex<g ref="char:EOLhyphen"/>planatory Remonſtrance of its near approaching Abro<g ref="char:EOLhyphen"/>gation for ſome <hi>Fault he found with it:</hi> This plainly ar<g ref="char:EOLhyphen"/>gues,
+<pb n="6" facs="tcp:102303:5"/> our Lord ſaw ſomething ſo Equitable in this Law, for the ſake of which he intimated no ſignification, that it was to be abrogated at his Death, but to conti<g ref="char:EOLhyphen"/>nue in its own place; For the very want of ſuch an E<g ref="char:EOLhyphen"/>quity had elſe been a fault in the Eye of Chriſt, Now the minor Propoſitions in both theſe Arguments that Chriſt Derogated nothing, Remonſtrated nothing, are Evident from the Text of both the <hi>Evangeliſts,</hi> who give us no Account of any ſuch either Derogation or Remonſtrance, but only of his Sanction: And it cannot be ſuppoſed, but they would as freely have Recorded and deliver'd over to us the one as the other; and that they would have been directed ſo to do by the Divine Spirit, if it had been a point of Chriſts Doctrine.</p>
+            <p>For the proof therefore of the major Propoſitions, that Chriſt not Derogating from, nor Remonſtrating to this <hi>Law of Tithes,</hi> ſaw nothing in it for which it ſhould be abrogated; but that he ſaw ſomething in it, why it ſhould not be abrogated, but continue after his Death; I ſhall now reaſon theſe two ways.</p>
+            <p n="1">1. By obſerving our Saviour did Remonſtrate to any other parts of <hi>Moſes his Law,</hi> or <hi>Jewiſh Obſervances</hi> as they came in his way, and by ſome fit way ſhew ei<g ref="char:EOLhyphen"/>ther his preſent diſlike, or give ſome forebodes of his Pleaſure, they ſhould be abrogated at his Death, and his Servants diſcharg'd from them; but having not done ſo in this particular Law; it argues he ſaw no<g ref="char:EOLhyphen"/>thing in it at which he was at that preſent offended, nor for which it ſhould be abrogated at his Death.</p>
+            <p>And therefore I ſhall ſet my ſelf to obſerve ſuch par<g ref="char:EOLhyphen"/>ticulars of <hi>Moſes</hi> his Law, and <hi>Jewiſh</hi> Obſervances, as by the <hi>Evangelical</hi> Records fall under our Lords par<g ref="char:EOLhyphen"/>ticular Remark, and of his particular Demeanour to<g ref="char:EOLhyphen"/>wards the ſeverals of them compared with this.</p>
+            <p n="2">2. In that our Lords Reſpect to <hi>this Law,</hi> as we ſhall under the former Head make good will be found very
+<pb n="7" facs="tcp:102303:5"/> different from other parts of the <hi>Jewiſh Law,</hi> and ob<g ref="char:EOLhyphen"/>ſervance; and that ſuch a Reſpect cannot be imagin'd to be grounded on an indifferency, that it was neither Good nor Evil; it will therefore follow, he ſaw ſome<g ref="char:EOLhyphen"/>thing of a poſitive Equity and Goodneſs, why he did ſo regard it as no way to predict its Abrogation at his Death; and therefore I ſhall endevour by a com<g ref="char:EOLhyphen"/>pare with other Scriptures centring in this, to find out that poſitive Equity and Goodneſs.</p>
+            <div type="part">
+               <p>Let us then firſt Examine our Saviours Treaty of the ſeveral parts of <hi>Moſes his Law.</hi>
+               </p>
+               <p n="1">1. And firſt as to the Moral precepts of <hi>Moſes his Law,</hi> our Lord was ſo far from Abrogating them, that he ſublimated them to their own purity, far above the falſe Gloſſes of the <hi>Phariſaick</hi> Doctors, or the low ſenſe the Carnal <hi>Jew</hi> had of them, as appears all along that divine Sermon on the Mount, and for the perpe<g ref="char:EOLhyphen"/>tuity<note place="margin">Mat. 5. 18. <hi>&amp;c.</hi>
+                  </note> he dates the Duration of every <hi>Iota</hi> or <hi>Tittle</hi> of them beyond that of <hi>Heaven and Earth.</hi>
+               </p>
+               <p n="2">2. In thoſe things wherein either <hi>Jewiſh</hi> Cuſtom and Practiſe, or explicite permiſſion by <hi>Moſes his Law</hi> had prevaricated from the Divine and Original Conſtituti<g ref="char:EOLhyphen"/>on; Our Saviour plainly and immediately reduced thoſe Cuſtoms and Practiſes to that Divine original by ſettling that Standard of Reduction; <hi>From the Begin<g ref="char:EOLhyphen"/>ning it was not ſo,</hi> as in the Caſe of <hi>Marriage</hi> and <hi>Di<g ref="char:EOLhyphen"/>vorce.</hi>
+                  <note place="margin">Mat. 19. 8.</note>
+               </p>
+               <p n="3">3. He peremptorily decided to the Civil Power the due of <hi>Tribute,</hi> and therein of all ſubjection con<g ref="char:EOLhyphen"/>ſiſtent with the ſupream Law of God, all pretenſes from the <hi>Jewiſh Law</hi> or any other of latter date to the contrary notwithſtanding, in that everlaſting Oracle, <hi>Render therefore to Ceſar the Things that are Ceſars,</hi> and<note place="margin">Mat. 22. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>to God the things that are God's.</hi>
+               </p>
+               <p n="4">4. He diverted the ſeverity of the <hi>Judaick Judicial</hi>
+                  <pb n="8" facs="tcp:102303:6"/> 
+                  <hi>Law</hi> as to the Execution, from the <hi>woman taken in Adul<g ref="char:EOLhyphen"/>tery,</hi>
+                  <note place="margin">John 8. 9, 10.</note> although <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>in the very Fact;</hi> by ſtriking the Conſciences of her Accuſers with their own Guilt.</p>
+               <p n="5">5. In that great precept of the <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bbath Day,</hi> Our Lord croſſed the Superſtitious Auſterity of the <hi>Phari<g ref="char:EOLhyphen"/>ſees,</hi> and refuted it by Arguments drawn from the <hi>Mo<g ref="char:EOLhyphen"/>ſaick Law it ſelf,</hi> which allowed <hi>nullum in Sanctuario Sab<g ref="char:EOLhyphen"/>bati Otium</hi> no Sabbatiſm of reſt in the Sanctuary; <hi>but the Prieſts prophane,</hi> as our Lord ſays, <hi>the Sabbath Day in</hi>
+                  <note place="margin">Mar. 12. 1. <hi>&amp;c.</hi> Mar. 2 23 <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>the Temple,</hi> and are blameleſs, from their own practiſe in <hi>Leading their Beaſts to Water,</hi> from the true Intention of the <hi>Sabbath, which was made for Man,</hi> and not Man for<note place="margin">John 5 17.</note> it, from the ever Active Goodneſs of the Divine Being and the Mediator that never Sabbatizes; <hi>my Father wor<g ref="char:EOLhyphen"/>keth hitherto, and I work:</hi> And he foreboded the change of it from the <hi>ſeventh Day</hi> to the <hi>Firſt,</hi> by declaring himſelf <hi>Lord, even of the Sabbath;</hi> and aſſigning that for the Reaſon, why he declar'd himſelf <hi>Lord</hi> over it, <hi>viz.</hi> to change it, becauſe the <hi>Sabbath was made for Man,</hi> and <hi>not Man for it,</hi> That is, the <hi>Firſt day Sabbath</hi> might be as much adapted to Man's Good, as the <hi>ſeventh</hi> was; and that neither the one nor the other was any of thoſe Eternal and Immutable Laws for which Man was made. Therein intimating he changed no ſuch Laws, but as the <hi>Son of Man</hi> or the the <hi>great Mediator</hi> he chan<g ref="char:EOLhyphen"/>ged ſuch Laws as were made for Man's Intereſt, to what he ſaw moſt for their intereſt by variety of Circumſtances and Times; and were not thoſe eternal immutable Laws for which Man was made, and where<g ref="char:EOLhyphen"/>in his Happineſs without any Alteration conſiſted: Thus he judged the <hi>Firſt Day</hi> honoured with his <hi>Re<g ref="char:EOLhyphen"/>ſurrection,</hi> and as a ſeventh part of Time includ<g ref="char:EOLhyphen"/>ing the <hi>Memory</hi> of the <hi>CREATION</hi> was now fitteſt for a <hi>Sabbath.</hi> For who as <hi>the Son of Man</hi> can judge of thoſe advantages of Humane Nature, who took that Nature upon him, that he might be <hi>touched</hi>
+                  <pb n="9" facs="tcp:102303:6"/> 
+                  <hi>with our Infirmities,</hi> and might be a <hi>Compaſſionate High-Prieſt.</hi> Upon this Head I have inſiſted the longer, be<g ref="char:EOLhyphen"/>cauſe it gives great light into the main diſcourſe, and becauſe I ſhall have after occaſion to compare toge<g ref="char:EOLhyphen"/>ther the precept of <hi>Tithes,</hi> and of a <hi>ſeventh part of</hi> Time.</p>
+               <p n="6">6. He foreboded the Change of the whole <hi>Moſaick</hi> Frame, by declaring <hi>the Scribe not far from the Kingdom</hi>
+                  <note place="margin">Mark 12. 34.</note> 
+                  <hi>of God,</hi> who underſtood the <hi>Love of God and our Neigh<g ref="char:EOLhyphen"/>bour,</hi> to be more than all <hi>whole Burnt Offerings</hi> and <hi>Sa<g ref="char:EOLhyphen"/>crifices,</hi> which our Lord ſoon after (as we ſhall pre<g ref="char:EOLhyphen"/>ſently ſee) in an umbrage abrogated: <hi>Circumciſion</hi> was already antiquated by the <hi>Baptiſm of John,</hi> and the <hi>Diſciples of Jeſus;</hi> and was undervalued in compare with <hi>the making a man every whit whole,</hi> the great Deſign of<note place="margin">John 7. 22.</note> the Goſpel; although by the firſt Inſtitution, the <hi>Uncircumciſed</hi> was to be <hi>cut off from his People;</hi> the <hi>Paſs-Over</hi> was voided by the <hi>Lords Supper,</hi> the Feaſt upon the True <hi>Paſchal Lamb</hi> ſubſtituted to it.</p>
+               <p n="7">7. In all Caſes wherein <hi>Phariſaick</hi> Hypocriſy, Ex<g ref="char:EOLhyphen"/>tortion, Vain-Glory, Traditional Superſtition had in<g ref="char:EOLhyphen"/>troduced any Additions upon Ceremonial, or even Moral Duties; our Saviour was moſt Rigorous in the Detection and Cenſure, as in their <hi>Phylacteries, Corban, Eating with waſht Hands, their long Prayers, Faſtings, Alms,</hi> the odd Sentiments of the <hi>Reſurrection</hi> faſtned to <hi>Moſes</hi> his Law <hi>by the Sadduces,</hi> with many other In<g ref="char:EOLhyphen"/>ſtances of both kinds.</p>
+               <p>Now to draw up a Compariſon betwixt the afore<g ref="char:EOLhyphen"/>nam'd Inſtances (for there remain two more of a pecu<g ref="char:EOLhyphen"/>liar conſideration) of our Saviours Treaty of <hi>Moſes</hi> his Law, and his Treaty of it in this perticular of <hi>Tithes,</hi> and it thus ariſes.</p>
+               <p>We find the Interpretation of <hi>Moſes his Law,</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Tithes</hi> was moſt particular, and to the utmoſt Stretch and Extent, when it was drawn down to <hi>Mint,</hi>
+                  <pb n="10" facs="tcp:102303:7"/> and <hi>Cummin,</hi> far more expreſs than any Words we find in the <hi>Levitical Law</hi> it ſelf; yet our Lord blames no<g ref="char:EOLhyphen"/>thing, he finds no fault, nay he Approves, and ſets his Seal to it; <hi>Theſe Things ought ye not to leave undone:</hi> He does not <hi>make it void,</hi> nay he <hi>Eſtabliſhes</hi> it; it could not indeed be, but that eſpecially the Tantilloes, thoſe <hi>uttermoſt Farthings</hi> of <hi>Tithing,</hi> muſt be in themſelves much lighter in our Lords Account than <hi>Judgment, Mercy;</hi> but elſe he moves them not out of their place, though but as the <hi>Duſt</hi> of the <hi>Ballance</hi> in <hi>Tithing</hi> it ſelf.</p>
+               <p>And therefore undoubtedly, our Saviour ſaw ſome Rule of unchangeable Right, that ſuſtained ſo nice an Expoſition of <hi>Moſes his Law,</hi> and that ſupported even that Law it ſelf above the <hi>Ceremonial,</hi> or <hi>Judicial</hi> San<g ref="char:EOLhyphen"/>ctions of <hi>Moſes.</hi>
+               </p>
+               <p>He does not <hi>fulfil</hi> it, that is explain it at a greater Breadth or Height, as he did <hi>Matthew</hi> the <hi>5th,</hi> thoſe <hi>greater Laws:</hi> Indeed the <hi>Phariſees</hi> had done that to his Hand, and ſhrivell'd up the other by falſe Gloſſes, but he Evacuates it not, he retrenches nothing, he gives nothing of an equitable Interpretation to it: He redargues nothing as in all the reſt of the fore<g ref="char:EOLhyphen"/>mentioned Inſtances. It aſſures us therefore, this Ex<g ref="char:EOLhyphen"/>actneſs of <hi>Tithing</hi> was none of their Extortion, Vain-Glory, Traditional Superſtition, Rigid or Erroneous Interpretation, not <hi>knowing the Scrip<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ures</hi> in their Mer<g ref="char:EOLhyphen"/>cy to Humane Nature, or the Power of God; but only their Hypocriſy ſhew'd it ſelf in their paſſing over the <hi>weightier Matters of the Law,</hi> while they were ſo puncti<g ref="char:EOLhyphen"/>lious in <hi>Tithing Mint, and Cummin.</hi>
+               </p>
+               <p>But beſides all theſe Inſtances given of our Lords Abearance towards the <hi>Law of Moſes,</hi> there are two more that require a more intimate reſearch into them, becauſe they import a greater Favour of our Lords towards the <hi>Moſaical Law,</hi> and yet in one of them
+<pb n="11" facs="tcp:102303:7"/> there was a certain Expiration of <hi>Moſes</hi> his Inſtitution at the Death of Chriſt, and in the other within leſs than half an Age after his Death: ſo that except there ſhall be a certain Diſtinction found betwixt thoſe two Inſtances, and this of <hi>Tithing,</hi> we are upon; it may have been out of Date with the Reſt of the <hi>Moſaick Law,</hi> which had ſome kind of Languiſhing Life till the Deſtruction of <hi>Jeruſalem by Titus.</hi>
+               </p>
+               <p>The firſt is that of the <hi>Leper,</hi> Mat 8. 2. <hi>&amp;c.</hi> who being cleanſed by our Lords miraculous Power, was in<g ref="char:EOLhyphen"/>joyn'd by him to <hi>ſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w himſelf to the Prieſt,</hi> and <hi>to offer for his cleanſing</hi> as <hi>Moſes commanded,</hi> from whence it may be thus argued:</p>
+               <q rend="margQuotes">
+                  <p>Chriſt enjoyn'd, or approv'd the <hi>Offering Moſes Com<g ref="char:EOLhyphen"/>manded for cleanſing the Leper.</hi>
+                  </p>
+                  <p>But that <hi>Offering</hi> is abrogated by Chriſt's Death, therefore ſome part of <hi>Moſes</hi> his Law abrogated by Chriſt's Death is yet enjoyn'd, or approved by him.</p>
+                  <p>And as it would be <hi>Iewiſh</hi> and <hi>Anti-Evangelical</hi> to continue ſuch an <hi>Offering</hi> upon the Cure of a <hi>Leper,</hi> becauſe of that Injunction of Chriſt, ſo is it the ſame to continue the Obſervation of the Law of <hi>Tithes,</hi> be<g ref="char:EOLhyphen"/>cauſe Chriſt ſaid at that Time to the <hi>Phariſees. Theſe ought ye not to have left undone.</hi>
+                  </p>
+               </q>
+               <p>But in Anſwer to this Argumentation, I rejoyn theſe Conſiderations:</p>
+               <p n="1">1. Our Lord was indeed himſelf in all Inſtances of Duty obedient to the <hi>Law of Moſes,</hi> under which he <hi>was made,</hi> and proportionably he withdrew no man at<note place="margin">Galat. 4 4.</note> that time of his Being upon Earth from a preſent Actu<g ref="char:EOLhyphen"/>al Obedience to it, rightly underſtood, ſo to this <hi>Le<g ref="char:EOLhyphen"/>per,</hi> he enjoyn'd the obſervation of the Law of his cleanſing ſo far as to offer according to it.</p>
+               <p n="2">2. Yet in the courſe of our Lords <hi>miraculous Healing,</hi> there were many <hi>Lepers</hi> cleanſed; For as a daily thing,
+<pb n="12" facs="tcp:102303:8"/> he renunciates to <hi>Iohn</hi> by his <hi>Diſciples,</hi> among other Miracles, the <hi>Lepers</hi> are <hi>cleanſed;</hi> and yet we have on<g ref="char:EOLhyphen"/>ly this Exemplification of Chriſt's Solemn Command<note place="margin">Mat 11. 15.</note> to obſerve <hi>Moſes</hi> his <hi>Command;</hi> Nor did he Caution his Apoſtles concerning it in their Commiſſion <hi>to cleanſe the Lepers,</hi> Mat. 10. 8.</p>
+               <p n="3">3. In that moſt remarkable <hi>Healing of the Ten Lepers,</hi> Luke 17. 14. There was only a Command to <hi>ſhew them<g ref="char:EOLhyphen"/>ſelves to the Prieſt,</hi> without any mention of the <hi>Offering,</hi> which ſhews, though our Lord did pay an obſervance to the <hi>Moſaick Law;</hi> yet in all his miraculous Clean<g ref="char:EOLhyphen"/>ſings, he knew a <hi>Greater than Moſes was there,</hi> and ſo did not oblige the <hi>Cleanſed</hi> rigorouſly to thoſe Obſer<g ref="char:EOLhyphen"/>vances.</p>
+               <p n="4">4. He Limits the Injunction to the proper end of it, viz. <hi>For a Teſtimony to them:</hi> that is,</p>
+               <p n="1">1. That our Lord was no Contemner of <hi>Moſes</hi> his <hi>Adminiſtration,</hi> though they calumniated him as ſuch on all occaſions, but a Juſt moderator over it. <hi>As a Son over his own Houſe.</hi>
+               </p>
+               <p n="2">2. <hi>For a Teſtimony to them, that the Kingdom of God was come upon them</hi> in the Miraculous Power of Chriſt:<note place="margin">Luke 11. 20.</note> And therefore the <hi>Leper was charged to tell no Man,</hi> but to ſurprize the <hi>Preiſt</hi> with the <hi>Offering</hi> for his Purifica<g ref="char:EOLhyphen"/>tion, that ſo there might be a legal Atteſtation to the Truth of the Miracle, which was ſo porfect doubtleſs (like <hi>Naamans his Fleſh coming again, as the Fl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh of a</hi>
+                  <note place="margin">2 Kings 5. 14.</note> 
+                  <hi>Child,)</hi> as to ſurmount any occaſion for the <hi>ſeven Days</hi> probationerſhip, <hi>Levit.</hi> 13 6. The <hi>Appearing</hi> thus to the <hi>Prieſt,</hi> and the <hi>Offering</hi> for <hi>Cleanſing</hi> were Indiſputa<g ref="char:EOLhyphen"/>ble Ratifications of the Miracle, and therefore were ſo carefully Commanded.</p>
+               <p>Now all theſe things laid together, There will ap<g ref="char:EOLhyphen"/>pear to any unprejudic'd Conſiderer, a vaſteſt Diffe<g ref="char:EOLhyphen"/>rence betwixt our Saviour's Sanction of the Duty of <hi>Tithing,</hi> and the Command to the <hi>Leper,</hi> as <hi>pro hac vice,</hi>
+                  <pb n="13" facs="tcp:102303:8"/> for that time to <hi>ſhew himſelf</hi> to the <hi>Preiſt,</hi> and <hi>Offer,</hi> &amp;c. and that for ſo great an End, as a <hi>Teſtimony to them,</hi> without which there had been no ſuch neceſſity.</p>
+               <p>The ſecond of theſe two laſt Inſtances, and much the Greater is comprehended in thoſe two<note n="(a)" place="margin">John 2. 14, <hi>&amp;c.</hi> Mar. 11. 15. 16.</note> 
+                  <hi>Zelo<g ref="char:EOLhyphen"/>ticiſms</hi> (if I may be bold ſo to call them) <hi>of our Lord and Saviour,</hi> the one at the firſt <hi>Paſs-Over</hi> he publickly ap<g ref="char:EOLhyphen"/>peared at, after his <hi>Baptiſm;</hi> and the ſecond at his laſt, juſt before his Death, <hi>viz.</hi> the <hi>Whipping</hi> and Eject<g ref="char:EOLhyphen"/>ing <hi>the Buyers and Sellers out of the Temple,</hi> and which is moſt Remarkable, prohibiting the paſſing of <hi>Veſſels</hi> through the <hi>Temple</hi> or <hi>Sanctuary</hi> rather; ſetting theſe<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</note> Two <hi>Mottoes,</hi> as it were, by his Divine Action on the Gates, or firſt Avenues to the <hi>Temple.</hi>
+               </p>
+               <p>The firſt in his Firſt Action, <hi>make not my Fathers Houſe a Houſe of Merchandiſe.</hi>
+               </p>
+               <p>The ſecond in his Second Action, <hi>my Houſe ſhall be call'd a Houſe of Prayer for all Nations.</hi>
+               </p>
+               <p>This I account an Inſtance of greateſt moment to the preſent Caſe;</p>
+               <p n="1">1. Becauſe our Saviour gave this as a Sanction of his own above, and beyond the Sentiment of the <hi>Jews,</hi> who were in amaze at it, and ask'd a <hi>Sign</hi> to be the Warranty of ſo great Doings, and it did ſo enrage the <hi>Phariſees,</hi> that they ſought to <hi>deſtroy him</hi> upon it, and yet <hi>the Temple of the Lord</hi> was their great Cry, and their laſt Accuſation of our Lord at his Death was for the very <hi>Temple,</hi> as if Blaſphem'd by him. And fur<g ref="char:EOLhyphen"/>ther, It is the more remarkable, becauſe Chriſt for the fulfilling of a double Prophecy thus Soveraignly mani<g ref="char:EOLhyphen"/>feſted himſelf, the firſt Time, that of <hi>David</hi> his Type; <hi>The Zeal of thy Houſe hath <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aten me up.</hi> The laſt Time, that of the Prophet <hi>Eſay, My Houſe ſhall be called the Houſe of Prayer for all Nations.</hi>
+               </p>
+               <p n="2">
+                  <pb n="14" facs="tcp:102303:9"/> 2. It is the more Influential on our preſent Diſcourſe becauſe <hi>Tithes</hi> and the <hi>Sanctuary</hi> had ſuch a Correlati<g ref="char:EOLhyphen"/>on one to another, that they may ſeem to have Lived, and Died together.</p>
+               <p n="3">3. Becauſe this Divine <hi>Zeal</hi> of our Lord termi<g ref="char:EOLhyphen"/>nated in a <hi>Temple,</hi> whoſe Holyneſs and Uſe was much proſtrated at his Death; Then the <hi>Vail of the Tem<g ref="char:EOLhyphen"/>ple,</hi> that ſeparated it from common Approach, even of Eyes, was by Miracle <hi>rent from the Top to t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<g ref="char:EOLhyphen"/>tom,</hi>
+                  <note place="margin">Mat 27. 51.</note> and within leſs than fourty years it was burnt by <hi>Titus,</hi> the Inſtrument of Divine Vengeance, and utter<g ref="char:EOLhyphen"/>ly raſed.</p>
+               <p>Here then appears, as Solemn a Sanction upon the Holyneſs of the <hi>Temple,</hi> as upon <hi>Tithes;</hi> and yet how ſoon, It was of neceſſity to be abrogated, and that e<g ref="char:EOLhyphen"/>ven as by a Hand from Heaven, we have ſeen, as our<note place="margin">Mat. 24. 1, 2.</note> Saviour alſo foretold, <hi>A Stone not left on a Stone.</hi>
+               </p>
+               <p>Now to All This theſe two things are ſaid,</p>
+               <p n="1">1. That our Lords Intention was to put that San<g ref="char:EOLhyphen"/>ction upon the Holyneſs of the <hi>Temple,</hi> as an Entail of the ſame Holyneſs upon the ſucceſſive <hi>Temples</hi> of the Chriſtians; againſt which I ſhall ſay no more, then that the very want of the <hi>Cabor</hi> and <hi>Shecinah,</hi> proper only to that material <hi>Sanctuary</hi> does diſprove that opination.</p>
+               <p n="2">2. The more valuable Account of the moſt Pious and Learned <hi>Mead,</hi> takes the Place of this, who puts the <hi>Emphaſis</hi> of our Saviour's Action of Favour to the the <hi>Temple,</hi> on that part of it, which was allowed to the <hi>Gentiles,</hi> which the <hi>Jews</hi> valued at that vile Rate, as to make it as <hi>Common</hi> and <hi>Unclean:</hi> But our Lord for the Vindication of it in preparation to the <hi>Gentiles</hi> coming into his Church, did thus Exterminate All that prophane Incumbrance of it: and Correſpondent to this does that Prophecy eſpecially ſhine out; <hi>My Houſe ſhall be called for All Nations the Houſe of Prayer.</hi>
+               </p>
+               <p n="3">
+                  <pb n="15" facs="tcp:102303:9"/> 3. Although this Account of our Saviour's Action can be by no means ſpar'd, much leſs excluded for the very ſake of that Prophecy, and alſo the near approach of the <hi>Gentiles</hi> Converſion; yet I ſhall be bold to give one larger, and more Receptive, as alſo more cloſe and nearer to the purpoſe of this unparalell'd <hi>Comming of the Lord into his Temple.</hi>
+               </p>
+               <p>And that is, This was indeed our Lords <hi>Cauſing Sa<g ref="char:EOLhyphen"/>crifice and Oblation to ceaſe,</hi> foretold by <hi>Daniel</hi> in the midſt of the week his laſt <hi>Paſs-Over,</hi> or juſt approach<g ref="char:EOLhyphen"/>ing Death Conſummatively; as it was inchoated at the very beginning of the <hi>Week,</hi> or the <hi>firſt Paſs O<g ref="char:EOLhyphen"/>ver.</hi>
+               </p>
+               <p>And when <hi>Saerifice</hi> was thus <hi>cauſed to Ceaſe; Prayer,</hi>
+                  <note place="margin">Dan 9. 27.</note> that was at leaſt Coeval with <hi>Sacrifice,</hi> and to endure to the very end, as the ſurviving Worſhip ſucceeded naturally to it alone; as Comprehenſive of all Spiri<g ref="char:EOLhyphen"/>tual and Intellectual Worſhip, and God's Acceptance of it.</p>
+               <p>This Action then of our Lords ſo ſuperlative <hi>takes away the First,</hi> that he may <hi>Eſtabliſh</hi> the <hi>Second.</hi> And that here reſided the Mind of that Heavenly Grandeur our Lord aſſum'd, I thus argue.</p>
+               <p n="1">1. The <hi>Temple</hi> was at that time the Great Symbol of both the Divine Preſence and Worſhip, and indeed the only then in the World.</p>
+               <p n="2">2. It was from its very firſt Foundation, <hi>a Houſe of Prayer, Solomon dedicated it,</hi> as ſuch at the firſt, by that<note place="margin">1 Kings 8. 2 Chr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. 6.</note> his <hi>Reyal Prayer, Prayer</hi> was intermix'd with all <hi>Sacri<g ref="char:EOLhyphen"/>fices,</hi> as the moſt Learned Dr. <hi>Outram</hi> often obſerves, in that <hi>Excellent Diſcourſe of Sacrifices.</hi> It was always Comprehenſive of all Divine Worſhip, <hi>Oh thou that hear<g ref="char:EOLhyphen"/>eſt Prayer, to thee ſhall all Fleſh come;</hi> but yet under <hi>Moſes his Law Sacrifice</hi> over-ſhaded it; and the <hi>Temples</hi> name was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> primarily, not a <hi>Houſe of Prayer,</hi> but a <hi>Houſe of Sarifice.</hi>
+               </p>
+               <p n="3">
+                  <pb n="16" facs="tcp:102303:10"/> 3. <hi>The Evangelical Prophet Eſay</hi> foretels: It ſhould in the Goſpel ſtate of the Church receive another name; It ſhould be called the <hi>Houſe of Prayer,</hi> that is, of <hi>Pray<g ref="char:EOLhyphen"/>er</hi> ſeparated from <hi>Sacrifice,</hi> for elſe it was before <hi>the Houſe of Prayer,</hi> and although he joins <hi>Sacrifices,</hi> yet it is only according to the Language of that time a predi<g ref="char:EOLhyphen"/>ction of <hi>Spiritual Sacrifices.</hi>
+               </p>
+               <p n="4">4. That <hi>Merchandize</hi> our Saviour ejected, and the <hi>paſſing of Veſſels</hi> through the Bounds of the <hi>Sanctuary</hi> he prohibited, was in a Senſe abſolutely neceſſary; at leaſt of High Conveniency to the <hi>Sacrifices of the Tem<g ref="char:EOLhyphen"/>ple,</hi> and had ſome Countenance from God's Allowance to the <hi>Farr Dwellers</hi> of his People, to bring their Money inſtead of their <hi>Sacrifices,</hi> that they might buy nearer the <hi>Temple,</hi> and on many Accounts the <hi>Veſſels</hi> could very ill be interdicted to that Service; ſo that the Ceſ<g ref="char:EOLhyphen"/>ſation of one was hardly poſſible without the other; the Ceſſation of the <hi>Merchandize</hi> and the <hi>Veſſels,</hi> with<g ref="char:EOLhyphen"/>out the Ceſſation of the <hi>Sacrifices.</hi>
+               </p>
+               <p n="5">5. The Remark of theſe two Actions of our Lords is put upon this firſt: <hi>Make not my Father's Houſe a Houſe of Merchandize;</hi> and in the ſecond, <hi>It ſhall be called the Houſe of Prayer.</hi>
+               </p>
+               <p n="6">6. It is once by the Evangeliſt <hi>Mark</hi> added, <hi>For all Nations;</hi> which argues to us, It was not principally, but yet incluſively and conſequentially intended, that is when it ſhould be a <hi>Houſe of Prayer,</hi> and not of <hi>Sacri<g ref="char:EOLhyphen"/>fices. All Nations ſhould flow into the Chruch,</hi> and it could not indeed be a <hi>Houſe of Prayer for All Nations,</hi> in a con<g ref="char:EOLhyphen"/>fluence to the Church of God, while it was a <hi>Houſe of Sacrifice;</hi> For that ſtate was fitted only to the <hi>Jewiſh</hi> Nation.</p>
+               <p>There are theſe Three Things therefore in our Lord's Intention in the Action, and his Concomitant diſcourſe.</p>
+               <p n="1">
+                  <pb n="17" facs="tcp:102303:10"/> 1. That there ſhould be a Ceſſation of that Carnal <hi>Jew<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh</hi> Worſhip, of God by <hi>Sacrifice.</hi>
+               </p>
+               <p n="2">2. That in the place of it ſhould ſucceed a Spiritual Intellectual Worſhip comprehended under <hi>Prayer,</hi> and that repreſented by the <hi>Temple,</hi> or <hi>Houſe of God,</hi> as the Symbol of it.</p>
+               <p n="3">3. Our Saviour with ſo high a <hi>Zeal</hi> thruſts out that Market, that <hi>Sacrifices</hi> neceſſarily brought ſo near the <hi>Temp<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> not only with the Reproach of its Sordidneſs, but of all that Fraud, Injuſtice, and other Rapines at<g ref="char:EOLhyphen"/>tending places of Traffick, by which it was made a <hi>Den of Theives.</hi> And this to prepare for that Purer, Freer, leſs Cumberſom Worſhip, ſignified by Prayer; and that ſhould not be clogg'd with thoſe Temptations of Fraudulency.</p>
+               <p n="4">4. The Chriſtian Church Catholick, as conſiſting of all Nations, riſes as it were out of this <hi>Temple,</hi> when the <hi>Apoſtles</hi> met together, when the Effu<g ref="char:EOLhyphen"/>ſion<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> of the <hi>Holy Spirit coming down,</hi> as a <hi>Shecinah</hi> upon them, viz. <hi>in Fiery Cloven Tongues,</hi> conſecrated that <hi>Church</hi>
+                  <note place="margin">Acts 2. 1. <hi>&amp;c.</hi>
+                  </note> to be <hi>the Houſe of the Living God, a Houſe of Prayer for all Nations,</hi> a repreſentative of which then met, <hi>Devout men of every Nation under Heaven.</hi>
+               </p>
+               <p n="5">5 The <hi>Jews</hi> and eſpecially the <hi>Phariſees</hi> Surmizing, whither All this Action of our Lord tended, were fil<g ref="char:EOLhyphen"/>led with ſo much Rage and Amazement, being equal<g ref="char:EOLhyphen"/>ly Enemies to the Ceſſation of <hi>Sacrifice,</hi> and to the Church of God ſpread through <hi>all Nations.</hi>
+               </p>
+               <p>And thus I have given Account of the moſt plauſi<g ref="char:EOLhyphen"/>ble Appearance of our Lord's Sanction upon a Branch of the <hi>Moſaick Jewiſh Law,</hi> which yet was indeed, and in true underſtanding the moſt efficacious Abrogation of it, and Introduction of the <hi>Evangelical</hi> ſtate; and I have inſiſted the more induſtriouſly upon it becauſe it is of difficult explication according to its true Senſe,
+<pb n="18" facs="tcp:102303:11"/> and according to that Senſe very different from this Caſe of <hi>Tithes.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>I am now arrived to the ſecond Point of the Argu<g ref="char:EOLhyphen"/>ment, that is, that our Lord not onely <hi>blam'd</hi> nothing in this moſt Rigid Interpretation of the <hi>Phariſees</hi> upon the <hi>Law of Tithes given by Moſes;</hi> nor in the <hi>Law</hi> it ſelf: But on the contrary, that he ſaw ſome unchangeable Equity in it, for the ſake of which, he intimated not the leaſt <hi>Iota</hi> of Abrogation in relation to it.</p>
+               <p>And that we may attain that, I ſhall proceed by theſe ſeveral Propoſitions that are either evident by their own Light, or proved in the former, or following courſe of the Argument.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>1</label> God hath a Sovereign Right over all things we poſ<g ref="char:EOLhyphen"/>ſeſs, being himſelf always <hi>the moſt High poſſeſſor of Hea<g ref="char:EOLhyphen"/>ven and Earth.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>2</label> He may reſerve to himſelf, or command from us, as a Tribute or Homagery-Acknowledgment whatever proportions of any thing we call ours, and to what ends he pleaſes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>3</label> Since the Sin and Fall of Man, becauſe all the Grace and Favours of God to us are in and through his Son as our <hi>High-Prieſt,</hi> and <hi>Mediator,</hi> in <hi>whom All things now conſiſt;</hi> there hath therefore ariſen together with the<note place="margin">Coloſ. 1. 17.</note> aforeſaid Acknowledgment of the Divine Nature, an Acknowledgment of our <hi>High Prieſt and Mediator,</hi> an Acknowlegment of the Son of God in our Nature, through whom we receive All, and offer All; who <hi>abideth a High Prieſt continually, without either Beginning of Days. or End of Life.</hi>
+                  <note place="margin">Heb. 7.</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>4</label> Becauſe neither to God, nor the Son of God in Heaven can our <hi>Goodneſs</hi> of this ſort extend <hi>in ſpecie,</hi> therefore he hath declar'd his Pleaſure, It ſhould be Deputed.</p>
+               <p n="1">1. To the outward means and conveniencies of So<g ref="char:EOLhyphen"/>lemnizing his Worſhip.</p>
+               <p n="2">
+                  <pb n="19" facs="tcp:102303:11"/> 2. Becauſe for the more Due, and certain Perfor<g ref="char:EOLhyphen"/>mance of his Worſhip, God hath ſeparated and ſelect<g ref="char:EOLhyphen"/>ed perſons for the Care of, and Service in it; He hath therefore given to thoſe his Immediate Servants, and Miniſters of his Worſhip in the World, their juſt pro<g ref="char:EOLhyphen"/>portions of thoſe Acknowledgments, due to him, out of what we poſſeſs, both for an Inablement to, and Recompence of their Service, not as <hi>Alms,</hi> but as <hi>Ho<g ref="char:EOLhyphen"/>nour.</hi>
+                  <note place="margin">1 Tim. 5. 17</note>
+               </p>
+               <p n="3">3. After this by way of <hi>Alms</hi> to the Poor, which yet is alſo call'd our <hi>Righteouſneſs</hi> on this Account.<note place="margin">2 Cor. 9. 9, 10,</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>5</label> By Divine Impulſe the <hi>Tenth</hi> of <hi>All</hi> hath been pitch'd upon, as the <hi>Quota pars,</hi> or proportion of a Tribute to him, to whom All is indeed Due.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſit. </seg>6</label> In God's own <hi>peculiar Nation,</hi> and Government, the <hi>Tenth of All the Increaſe of the ſeed of the Land, and of whatſoever paſſed under the Rod of the Flock, or of the Herd, was Holy to the Lord</hi> by his ſpecial Appointment.</p>
+               <p>Here then we find, that, which was in our Saviour's Eye, that differences this <hi>Law of Tithing</hi> ſo much from other parts of <hi>Moſes his Law.</hi>
+               </p>
+               <p>Even the Everlaſting Equity of Acknowledging God by the Mediator, and Eternal High Prieſt, out of what we poſſeſs, deputatively deferr'd to the immedi<g ref="char:EOLhyphen"/>ate Miniſters and Servants of his Solemn Worſhip, which Acknowledgment is moſt duly, and juſtly ari<g ref="char:EOLhyphen"/>ſing from the very leaſt Things; even the <hi>Mint and Cum<g ref="char:EOLhyphen"/>min,</hi> that ſerve the uſes of Life, and is therefore to con<g ref="char:EOLhyphen"/>tinue in the Subſtantials, as long as God hath a Holy Service in the World, Prieſts and Miniſters of it, even throughout All Ages; and no leſs under the <hi>Evange<g ref="char:EOLhyphen"/>lical</hi> Law, then the <hi>Moſaick;</hi> after <hi>Moſes,</hi> as it was before him; As long as the Goodneſs of God grants us <hi>All Things to enjoy,</hi> even ſo long does our Tribute to God through Jeſus Chriſt, oblige us out of <hi>All Things,</hi> we do enjoy, It is of Eternal Equity to <hi>Honour the Lord</hi>
+                  <pb n="20" facs="tcp:102303:12"/> 
+                  <hi>with our Subſtance,</hi> and <hi>with the Firſt Fruits of all our In<g ref="char:EOLhyphen"/>creaſe,</hi> Prov. 2. 9.</p>
+               <p>
+                  <hi>Abraham,</hi> therefore <hi>the Father of Decimation</hi> gave<note place="margin">Geneſ. 14. 18, 19.</note> the <hi>Tenth of All</hi> to <hi>Melchized<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k,</hi> long before <hi>Moſes,</hi> and under that Character, <hi>Prieſt of the moſt High God, Poſſeſ<g ref="char:EOLhyphen"/>ſor of Heaven and Earth, who Bleſſed him in the name of the moſt High God.</hi>
+               </p>
+               <p>Aod who this <hi>Melchizedek</hi> was and of whom he was ſo Near, ſo Expreſs, and Immediate a Type in his PRIEST-HOOD, and therein ſo <hi>Great a Man, Abra<g ref="char:EOLhyphen"/>ham,</hi> who <hi>ſaw Chriſt's Day, and was Glad,</hi> very well knew, and therefore He <hi>Receiv'd Bleſſing from Him,</hi> who Himſelf <hi>had the Promiſes;</hi> which <hi>Bleſſing Melchiſedek</hi> could not have conferr'd <hi>upon him, who had the promiſes,</hi> had he not immediately repreſented the <hi>Seed,</hi> who was<note place="margin">Heb. 7. 4.</note> the True <hi>High-Prieſt</hi> and <hi>Bleſſer,</hi> in whom both <hi>Mel<g ref="char:EOLhyphen"/>chizedek, Abraham,</hi> and <hi>All the Nations of the Earth were Bleſſed.</hi> Upon all which Accounts <hi>Abraham gave him the Tenth of All.</hi> Which <hi>Tenth</hi> as to its Subſtantial Senſe and Intention was firſt of the Eternal Law of Equity, and <hi>Evangelical,</hi> before it was <hi>Moſaickly Le<g ref="char:EOLhyphen"/>gal.</hi>
+               </p>
+               <p>In purſuance of this Acknowledgment of God, <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>
+                  <note place="margin">Geneſ. 28. 22.</note> 
+                  <hi>the Third from Abraham, vowing</hi> JEHOVAH <hi>ſhould be his God,</hi> that he would <hi>Build him a Houſe, Vowed</hi> alſo to that <hi>God,</hi> the <hi>Tenth of All, He ſhould give him,</hi> accor<g ref="char:EOLhyphen"/>ding to the Example of his Great Father, and by the ſame Divine Impulſe, God's Acceptance of which he teſtified to <hi>Jacob</hi> when he ſaid, after the <hi>giving</hi> him <hi>Laban</hi>'s Cattle: <hi>I am the God of</hi> Bethel, <hi>where thou anoin<g ref="char:EOLhyphen"/>tedſt</hi>
+                  <note place="margin">Gen. 31. 13.</note> 
+                  <hi>the Pillar,</hi> and <hi>Vowedſt a Vow unto Me,</hi> and at other times after that.</p>
+               <p>And after all this, when the God of <hi>Abraham,</hi> and <hi>Jacob</hi> founded a <hi>National Church</hi> in their <hi>Seed,</hi> from which the <hi>High-Prieſt after the Order of Melchizedeck alſo ſprang;</hi> in approbation of his own Impulſe, He
+<pb n="21" facs="tcp:102303:12"/> ſeparated a <hi>Tenth part</hi> of ALL to himſelf for the <hi>Prieſt<g ref="char:EOLhyphen"/>hood,</hi>
+                  <note place="margin">Num. 18, <hi>&amp;c.</hi>
+                  </note> he ordain'd.</p>
+               <p>Now all this being under the Eye of our Lord and Saviour, the <hi>High Prieſt of Our Profeſſion;</hi> He dimi<g ref="char:EOLhyphen"/>niſh'd nothing from the Right of God, and of himſelf in the very leaſt Particles, however abuſed by his Hy<g ref="char:EOLhyphen"/>pocritical Adverſaries to the neglect of <hi>Greater Things;</hi> He knew ir too Awful to be violated, and did it not; No; he eſtabliſh'd it by his own Sanction, even the <hi>mi<g ref="char:EOLhyphen"/>nimum quod ſic,</hi> the very ſmalleſt <hi>Digits</hi> of it.</p>
+               <p>Thus our Saviour look'd back upon what had been before; That he look'd forward upon the Future ſtate of Things alſo is undoubted: For at this time the <hi>King<g ref="char:EOLhyphen"/>dom of God,</hi> or the <hi>Evangelical State</hi> was already Com<g ref="char:EOLhyphen"/>menced, although the <hi>Moſaick Frame</hi> was allowed a Co-exiſtence with it for a Time: But that it was al<g ref="char:EOLhyphen"/>ready entred is moſt certain, and that ſome Time before.</p>
+               <p n="1">1. <hi>John the Baptiſts</hi> Preaching, and <hi>Baptiſm</hi> is ſtyl'd<note place="margin">Mar. 1. 1. Luke 3 1.</note> by the <hi>Evangeliſt Mark; the Beginning of the Goſpel of Jeſus Chriſt.</hi> And the Year of it directly noted by the Evangeliſt <hi>Luke;</hi> Our Lord calls it the <hi>Counſel of God,</hi>
+                  <note place="margin">Luke 7 30.</note> which the <hi>Phariſees rejected againſt themſelves,</hi> being <hi>not Baptiz'd</hi> of <hi>J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hn:</hi> The <hi>Publicans</hi> and <hi>Harlots converſion</hi> by it he Praiſes, as <hi>their entring into the Kingdom of Hea<g ref="char:EOLhyphen"/>ven before the Pha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſees,</hi> who were <hi>Baptiz'd with</hi> John<hi>'s Baptiſm:</hi> He dates the <hi>Law and the Prophets till</hi> John, and that then <hi>the Kingdom of God was taken by violence,</hi> and Ceremoniouſneſs no longer attended it. The <hi>Week</hi>
+                  <note place="margin">Dan. 9. 27.</note> our Lord's <hi>confirming the Covenant</hi> was begun; <hi>John's Baptiſm,</hi> as an Intermedious Miniſtration had <hi>decreaſed,</hi> that our Lord's might <hi>increaſe</hi> and out-ſhine it, <hi>and the</hi>
+                  <note place="margin">John 3, 25; <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>leaſt in the Kingdom of Heaven became greater than He,</hi> ſo that He himſelf had inſtructed <hi>Nicodemus</hi> concerning <hi>Baptiſm,</hi> the <hi>Symbol of Regeneration</hi> into his <hi>Kingdom,</hi> ſome conſiderable time before this: For now our Lord's<note place="margin">John 3. 3. 5<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>Week</hi> wax'd near its <hi>middle point,</hi> that he might Cauſe
+<pb n="22" facs="tcp:102303:13"/> 
+                  <hi>Sacrifice to Ceaſe,</hi> as I noted even now.</p>
+               <p>And now it was that he gave this his Determination concerning the Exactneſs of <hi>Tithing;</hi> Theſe <hi>Things ought ye <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t to leave undone.</hi>
+               </p>
+               <p>And whether this was the very Time, to which the Apoſtle refers, and which he further explains, when he ſays, <hi>the Lord ordain'd, That they, who preach the Go<g ref="char:EOLhyphen"/>ſpel, ſhould Live of the Goſpel;</hi> even as they that Miniſter about Holy Things, <hi>&amp;c.</hi> May be now farther exami<g ref="char:EOLhyphen"/>ned.</p>
+               <p>Thus much of certainty we have attain'd, that the Goſpel being begun, and the whole <hi>Moſaick Law of Sa<g ref="char:EOLhyphen"/>crifices,</hi> ready to expire; He thus ordain'd, (as we have already all along declared,) <hi>Theſe Things ought,</hi> &amp;c.</p>
+            </div>
+            <div type="part">
+               <p>I come therefore now to make the Appeal of this Diſcourſe to the <hi>Apoſtolical</hi> Writings, and to obſerve from them, how the Scales will turn, whether to the Diſſenters from <hi>Decimation,</hi> or towards the Aſ<g ref="char:EOLhyphen"/>ſertors of it: And that the proceeding may be moſt equal, I will firſt make the Objection of the Diſſenters from thoſe Apoſtolick Writings, as ſtrong as I am able, and then apply to it its Anſwers: firſt from what is moſt Certain and Demonſtrative, out of the <hi>Apoſtolick</hi> Writings, then from what is very probable and agrea<g ref="char:EOLhyphen"/>ble to Reaſon, although poſſibly not ſo Demonſtra<g ref="char:EOLhyphen"/>tive.</p>
+               <p>The Objection I frame thus.</p>
+               <q rend="margQuotes">
+                  <p>
+                     <hi>Tithing</hi> was a proportion for the Acknowledgment of God, and his Miniſters, adjuſted to the Time of <hi>Sa<g ref="char:EOLhyphen"/>crifice,</hi> and the <hi>Prieſt-hood</hi> Attendant on <hi>Sacrifices.</hi> It was indeed before <hi>Moſes,</hi> and was tranſplanted into the <hi>Moſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ick Law</hi> as <hi>Circumciſion,</hi> and commanded under the name of a <hi>Heave Offering;</hi> All theſe three, <hi>Sacrifice, Circumciſion,</hi> and <hi>Tithes</hi> being <hi>firſt of the Fathers,</hi> and then of <hi>Moſes.</hi> But the very original of <hi>Tithes,</hi> was in Ho<g ref="char:EOLhyphen"/>nour of a <hi>Prieſt,</hi> and doubtleſs of a <hi>Prieſt,</hi> that <hi>Offered</hi>
+                     <pb n="23" facs="tcp:102303:13"/> 
+                     <hi>Sacrifice,</hi> though that part of his Office for as great Reaſons conceal'd, as his <hi>Genealogy,</hi> and onely his <hi>Bleſ<g ref="char:EOLhyphen"/>ſing</hi> in <hi>the Name of God</hi> recorded.</p>
+                  <p>To argue then, <hi>Tithes</hi> were not abrogated by Chriſt, becauſe before <hi>Moſes,</hi> is no ſtronger then to argue <hi>Sa<g ref="char:EOLhyphen"/>crifices,</hi> or <hi>Circumciſion</hi> were not abrogated, becauſe be<g ref="char:EOLhyphen"/>fore <hi>Moſes.</hi>
+                  </p>
+                  <p>And if we continue <hi>Tithes,</hi> we may as well continue <hi>Sacrifice,</hi> or <hi>Circumciſion</hi> becauſe of the <hi>Fathers.</hi>
+                  </p>
+                  <p>And ſeeing we juſtly reject the continuance of <hi>Sacri<g ref="char:EOLhyphen"/>fices,</hi> ſo ſhould we alſo <hi>Tithes,</hi> as of a Sacrifical Nature.</p>
+                  <p>The continuance therefore of them is juſtly Blame<g ref="char:EOLhyphen"/>able, as <hi>Jewiſh</hi> and <hi>Anti-Chriſtian,</hi> and is of the ſame ſort with calling the <hi>Miniſters of the Goſpel, Prieſts,</hi> on which account <hi>Tithes</hi> are ſo earneſtly contented for by them, a <hi>Prieſtly Maintenance</hi> for a <hi>Prieſtly miniſter.</hi>
+                  </p>
+                  <p>Therefore the Apoſtles, as in all their Writings, they carefully avoid affixing any <hi>Prieſtlyneſs</hi> to the <hi>Miniſters of the Goſpel;</hi> ſo do they any Subindications of a <hi>prieſt<g ref="char:EOLhyphen"/>ly maintenance;</hi> and therefore though our Lord abated nothing from <hi>the Law</hi> of <hi>Tithes,</hi> yet he left it to his <hi>Apoſtles</hi> by the Total Silence of any ſuch <hi>Law</hi> to de<g ref="char:EOLhyphen"/>clare it abrogated with the <hi>Sacrifical Law.</hi>
+                  </p>
+               </q>
+               <p>The two main Hinges, on which this Objection turns are theſe.</p>
+               <p n="1">1. <hi>Tithes</hi> were of a <hi>Sacrifical</hi> and <hi>Prieſtly Original,</hi> and as ſuch, conſign'd into <hi>Moſes his Law;</hi> and there<g ref="char:EOLhyphen"/>fore certainly Abrogated with all things of that ſort and alliance.</p>
+               <p n="2">2. They are not once mentioned by the <hi>Apoſtles,</hi> and therefore are to be concluded abrogated, though our Lord out of Honour to that <hi>Law</hi> of <hi>Moſes</hi> defalked no<g ref="char:EOLhyphen"/>thing from it himſelf, yet He left it to be thus done by his Apoſtles.</p>
+               <pb n="24" facs="tcp:102303:14"/>
+               <p> To the firſt of theſe Objections, I make theſe fol<g ref="char:EOLhyphen"/>lowing Anſwers.</p>
+               <p n="1">1. The whole ſum of all True Religion was by Di<g ref="char:EOLhyphen"/>vine Artifice, interwoven with the <hi>Jewiſh Adminiſtrati<g ref="char:EOLhyphen"/>on,</hi> whatever of Natural or Revealed Truth had been derived from God. was either in plain precepts, or cu<g ref="char:EOLhyphen"/>rious Types and Shades to be found in that <hi>Theocratical Frame</hi> of <hi>Laws;</hi> and not onely what had been implan<g ref="char:EOLhyphen"/>ted, or deliver'd by God to his Servants; but even the whole <hi>Evangelical Frame</hi> was in apt Figures, and Emblems delincated in it. It is no wonder then, that a <hi>Tenth,</hi> devoted as a Tribute to God, ſhould be taken into the <hi>Moſaick Frame</hi> under the Symbol of a <hi>Heav-Offering,</hi> which by its Exaltation (as <hi>Terumah</hi> ſignifies) to Heaven, and then let down to Earth <hi>Surſum, Deorſum</hi> ſhould carry its pedigree, and original in that ſymbol; even the Acknowledgment of <hi>the moſt High God, Poſſeſ<g ref="char:EOLhyphen"/>ſer of Heaven and Earth.</hi> And in the ſecond <hi>Heaving</hi> by the <hi>Levites</hi> of the <hi>Beſt of the Tithes</hi> for the uſe of <hi>Aaroh, the High Prieſt</hi> and his Succeſſors; the moſt lively<note place="margin">Num. 18. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Type, the Jewiſh Prieſt-hood had of our Lord's Prieſt<g ref="char:EOLhyphen"/>hood; there were the Lineaments of the firſt <hi>Decima<g ref="char:EOLhyphen"/>tion to Melchiſedeck,</hi> the more lively Type of <hi>Jeſus, our High-Priest for ever after the order of</hi> Melchiſedek.</p>
+               <p n="2">2. As all True Religion was by God's own Infinite Wiſdom depoſited in the <hi>Jewiſh Types,</hi> ſo in them were the moſt unchangeable and eternal Moral Duties per<g ref="char:EOLhyphen"/>form'd by all True Worſhippers: In the Sacrifices were cloſe Applications to the Infinite Mercy of God in Chriſt under the Type; Confeſſions, Supplications, Thankſgivings, Acknowledgments of JEHOVAH, the <hi>Onely True God; filling Heaven and Earth with his preſence;</hi> of which the <hi>Tenupha,</hi> or <hi>Wave-Offering</hi> was a Symbol; turning the Worſhipper to all parts of the World <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rorſum, Retrorſum, Dextrorſum, ſiniſtrorſum,</hi> to Adore God, to whom the Sacrifice was Wav'd.</p>
+               <p n="3">
+                  <pb n="25" facs="tcp:102303:14"/> 3. When therefore under the Goſpel the Shaddows flew away, and the Types were ſtripp'd off, whatever was ſubſtance ſtill remain'd; Nor did the Holy Spirit of God ſo deſert its formerly Inſtituted Organs of Di<g ref="char:EOLhyphen"/>vine Worſhip, but that it ſtill delighted to make uſe of them, as lively Expreſſions of thoſe Duties, the Things themſelves had formerly been the Shades of; Prayers are call'd <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urs;</hi> and Praiſe is ſtill a <hi>Sacrifice;</hi> and True Chriſtians call'd <hi>Prieſts;</hi> The <hi>Offering up the Body</hi> in Holineſs is a <hi>Living and Acceptable Sacrifice.</hi>
+               </p>
+               <p>The Apoſtles <hi>Converſion</hi> of the <hi>Gentiles</hi> was a <hi>Prieſtly</hi>
+                  <note place="margin">Rom. 15. 16.</note> or <hi>Hierurgical</hi> ſervice: And more cloſe to our purpoſe,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> The Things the <hi>Philippians</hi> ſent to the Apoſtles ſupply, were an <hi>Odour of a ſweet ſmelling ſavour,</hi> and <hi>would abound</hi>
+                  <note place="margin">Phil 4. 17, 18.</note> 
+                  <hi>to their Account,</hi> of what they poſſeſſed under the moſt <hi>High poſſeſſor of Heaven and Earth; To do</hi> good, <hi>and to Communicate,</hi> a Phraſe proper to the ſupport of Goſpel Miniſtry, (as is to be obſerved) are <hi>Sacrifices, with which God is well pleaſed;</hi> Thus we ſee theſe Moral Du<g ref="char:EOLhyphen"/>ties remain, and continne a Memory of the <hi>Divine Law by Moſes,</hi> by being expreſſed to us in the Goſpel, un<g ref="char:EOLhyphen"/>der ſuch Tralations, as were proper to that <hi>Law,</hi>
+               </p>
+               <p>If therefore we ſhall find Great Moralities under <hi>Tithing</hi> as a Tribute to God in his Miniſters; If we ſhall find in a <hi>Tenth Part,</hi> more then Typical and Ce<g ref="char:EOLhyphen"/>remonial, and in ſuch Expreſſions as reſemble ſuch a Dedication to God, as Decimation was; why ſhould we reject it as meerly Sacrifical.</p>
+               <p>For it is Evident, Sacrifice hath a plain and undoub<g ref="char:EOLhyphen"/>ted Ceremonialneſs in its Nature, for the ſake of which onely can it by any Law of Nature, or Equity be once ſuppoſed an Acceptable Acknowledgment of God, or Worſhip of him; and when-ever a Ceremo<g ref="char:EOLhyphen"/>nial Worſhip vaniſhes, that muſt needs Evaniſh alſo.</p>
+               <p>But ſetting out a <hi>Tenth part</hi> to God, and in honour of the <hi>Prieſt-hood of Chriſt,</hi> for ſo Great and Real an
+<pb n="26" facs="tcp:102303:15"/> Uſe, as the upholding the Worſhip of God in the World in his Miniſters, <hi>Set apart to that Work;</hi> is of ſo True a Morality in the Subſtance, as not to be denied, and the Omiſſion of it is a <hi>Robbing</hi> of God.</p>
+               <p>And for the <hi>Tenthlineſs</hi> of it, It is the Determin<g ref="char:EOLhyphen"/>ing ſo far a ſettled proportion, to ſuch a purpoſe, as which beyond all Reverſal, God did once accept and approve, and therefore could not be Inequitable in it ſelf, and which alſo after ſo many Ages, Chriſt on an occaſion of Severity Review'd, and Blamed nothing in both which Characters of honor can never be raz'd out.</p>
+               <p>But now what was Shaddowy, <hi>Moſaick</hi> and Typical; <hi>viz.</hi> the <hi>Tenth</hi> being accounted above other parts, <hi>Holy to the Lord;</hi> the Bringing the <hi>Tithes to</hi> Jeruſalem; Any Ceremony of <hi>Heaving</hi> them, firſt to the <hi>Levite<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> then to <hi>Aaron;</hi> the Affixing them to <hi>Sacrificing Prieſts;</hi> Theſe are all vaniſhed.</p>
+               <p>For in no ſuch Senſe do the <hi>Miniſters of the Goſpel</hi> claim them, nor call themſelves a PRIEST-HOOD, but<note place="margin">Rom. 15. 16.</note> as they offer up by their <hi>Miniſtry Souls Converted to GOD,</hi> who are thereby as the Apoſtle in alluſion ſpeaks; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and He Himſelf, as before, a <hi>Prieſtly Adminiſtrator.</hi>
+               </p>
+               <p>And as they are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Seniors,</hi> or <hi>Elders</hi> in the Family of God, offering up the <hi>Sacrifices of Prayer</hi> and <hi>Praiſe,</hi> as the Apoſtle <hi>James</hi> inſtructs us. <hi>Jam</hi> 5. 14.<note place="margin">Heb. 13. 10.</note>
+               </p>
+               <p>And laſtly as they attend on that <hi>Altar,</hi> of <hi>which they have no right to eat that ſerve the Tabernacle;</hi> viz. The continual publication of the <hi>Sacrifice of Our Lord Jeſus, who ſuffered for his people without the Gate,</hi> as a Malefactor, by Preaching, and Adminiſtration of the <hi>Lords Supper,</hi> which is a <hi>ſetting forth of Jeſus Chriſt evidently, before</hi>
+                  <note place="margin">Heb. 6. 6.</note> 
+                  <hi>Men's Eyes, crucified among them,</hi> and a <hi>ſhewing forth his Death till he come;</hi> as Apoſtacy, and Denying of Chriſt is in a contrary ſenſe <hi>Crucifying the Son of God afreſh, put<g ref="char:EOLhyphen"/>ting</hi>
+                  <note place="margin">Heb. 10. 29.</note>
+                  <pb n="27" facs="tcp:102303:15"/> 
+                  <hi>him to an open ſhame, counting the Blood of the Cove<g ref="char:EOLhyphen"/>nant,</hi> a <hi>Common,</hi> or <hi>Unclean Thing.</hi>
+               </p>
+               <p>In any other Senſe we are all of the ſame Mind with that Eminent Servant of God, and Miniſter of the<note place="margin">
+                     <hi>Dr.</hi> Outram <hi>de Sacrificiis</hi> p. 222.</note> Goſpel <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow with Chriſt.</hi>
+               </p>
+               <q rend="margQuotes">
+                  <p>It is of great Remark; That none of the <hi>Miniſters of Chriſt.</hi> in whatſoever order they are conſtituted, are any where in the Holy Scripture, call'd <hi>Prieſts,</hi> or <hi>Chief-Prieſts;</hi>
+                  </p>
+                  <p>And a little after; Not the <hi>Goſpel Miniſtry,</hi> but the <hi>Prieſt-Hood of Chriſt</hi> was in Succeſſion to the <hi>Jewiſh Prieſt-hood;</hi> ſo that there is no one by Divine Autho<g ref="char:EOLhyphen"/>rity, either <hi>Prieſt,</hi> or <hi>High-Prieſt</hi> ſurviving, except Chriſt alone, <hi>viz.</hi> An <hi>Advocate</hi> with God for Men.</p>
+               </q>
+               <p>Thus the whole Objection from the Connexion be<g ref="char:EOLhyphen"/>tween <hi>Tithes</hi> and <hi>Sacrifices</hi> is clearly removed; and therein whatever concerns the firſt part of the Obje<g ref="char:EOLhyphen"/>ction.</p>
+               <p>I come now to the ſecond part of the Objection, There is no mention of <hi>Tithing</hi> in the Apoſtles Writings with Reference to the <hi>Miniſters of the Goſpel;</hi> but ſuch a Deep Silence, as argues it a very <hi>Unevangelical</hi> Pra<g ref="char:EOLhyphen"/>ctice to Require or Receive ſuch a Maintenance.</p>
+               <p>In Anſwer to this, I ſhall firſt obſerve, what is De<g ref="char:EOLhyphen"/>monſtratively certain from the Apoſtolical Writings: And that is.</p>
+               <p n="1">1. That, It is the <hi>Ordination of Chriſt the Lord,</hi> that <hi>they,</hi>
+                  <note place="margin">1 Cor. 9. 13, 14.</note> 
+                  <hi>who preach the Goſpel ſhould live of the Goſpel.</hi> This is ſo ex<g ref="char:EOLhyphen"/>preſſly the Ap. <hi>Paul</hi>'s Doctrine; that it cannot be que<g ref="char:EOLhyphen"/>ſtioned even when he moſt profeſſed a Receſſion from his own <hi>Right</hi> or <hi>Power,</hi> as it were to fit himſelf for it, there he moſt boldly aſſerted this, either as immediate Revelation, or ſome moſt known Decree of the Lord in this Caſe, or the Reſult of this Determination upon the <hi>Law of Tithes</hi> or that undoubted Maxim; <hi>The Labourer is worthy of his Hire:</hi> But this is moſt poſitive;
+<pb n="28" facs="tcp:102303:16"/> 
+                  <hi>The Lord hath ordained, that they who preach the Goſpel, ſhould Live of the Goſpel,</hi> whether we take it for the Reward of the <hi>Meſſengers of Good Tidings,</hi> according to the Cu<g ref="char:EOLhyphen"/>ſtom of all Ages and Nations, who uſe to proportion the Rewards to the Goodneſs of the Tidings, or for the Sacrifices of Gratitude to God for ſo Joyful an Embaſſy of Peace: It is evident the Compenſation for<note place="margin">2 Cor. 5. 20.</note> 
+                  <hi>Spiritual Things</hi> out of our <hi>Carnal Things</hi> is to be Great and Honourable; like the Preſents made to Embaſ<g ref="char:EOLhyphen"/>ſadors, anſwerable to the Dignity of the Prince from whom, and to whom they are ſent, and according to the particular Riches of every Country, where they are to Treat.</p>
+               <p>All the proviſion <hi>the Law</hi> made for the <hi>Miniſters of the Altar</hi> and <hi>Temple,</hi> and even for the very <hi>Oxen</hi> ten<g ref="char:EOLhyphen"/>ded hither; for if the <hi>Miniſters of the Law,</hi> that was<note place="margin">2 Cor. 3. 6. <hi>&amp;c.</hi>
+                  </note> but a <hi>Miniſtration of Death,</hi> and <hi>Condemnation</hi> were ſo <hi>honour'd;</hi> the <hi>Miniſters of the Goſpel,</hi> the <hi>Miniſtration of Life</hi> are worthy of <hi>Double Honour;</hi> and leaſt any ſhould think a Low Proportion enough the <hi>Apoſtle</hi> in this ve<g ref="char:EOLhyphen"/>ry Caſe of <hi>Communication</hi> admoniſhes; <hi>God is not moc<g ref="char:EOLhyphen"/>ked,</hi> that is, He will not ſuffer himſelf to be ſo.</p>
+               <p n="2">2. It is moſt certain, the <hi>Tenth part</hi> under ſo many Scales of Divine Acceptance muſt remain a Standard, to the very <hi>ends of the World,</hi> of that proportion God expects, as a <hi>Sacrifice of Praiſe</hi> to him, of <hi>Glory to him in the Higheſt</hi> for the Meſſage <hi>of Peace on Earth,</hi> and <hi>Good will to Men</hi> proclaim'd in his Goſpel; ſo that if it be ſuppoſed not to be abſolutely required to the For<g ref="char:EOLhyphen"/>mality, yet it cannot but be expected in the Sub<g ref="char:EOLhyphen"/>ſtance. Seeing the Right of God and our <hi>High-Prieſt</hi> is unchangeable; and the obligation through the clearneſs of the Revelation is much higher: The Tri<g ref="char:EOLhyphen"/>bute therefore cannot poſſibly abate in its value or ob<g ref="char:EOLhyphen"/>ligation, but muſt needs Riſe.</p>
+               <p n="2">2. There is therefore great probability, that the
+<pb n="29" facs="tcp:102303:16"/> Proviſion made by God for the <hi>Miniſters of the Temple,</hi>
+                  <note place="margin">1 Cor. 9.</note> and the <hi>Altar,</hi> leads to the very Specification of a <hi>Tenth Part;</hi> that the <hi>Double Honour</hi> is ſuited to the<note place="margin">1 Tim. 5 17.</note> Promogeniture of the <hi>Evangelical Presbytery</hi> above that of the <hi>Law;</hi> that the <hi>Priest-hood of Chriſt,</hi> ſhaddowed<note place="margin">Heb. 7.</note> by <hi>Melchiſedeck,</hi> that was honour'd with <hi>Abraham</hi>'s <hi>Decimation</hi> to it, ſo abundantly inſiſted upon by the Apoſtle, was an Admonition to Chriſtians of that Acknowledgment Due to our <hi>High-Prieſt,</hi> as conferred upon the Preachers of his <hi>Sacrifice</hi> and <hi>Interceſſion,</hi> by thoſe to whom the <hi>Feet of them that bring thoſe glad Ti<g ref="char:EOLhyphen"/>dings are Beautiful.</hi> That <hi>Communicating in all Good</hi>
+                  <note place="margin">Rom 10. 15. Galat. 6. 6.</note> 
+                  <hi>Things,</hi> is a ſilent inſinuation of the Ancient <hi>Law of Tithing,</hi> carrying ſo clear an Image of it: But becauſe Theſe Things are not ſo Cogent, as to convince the <hi>Gain-ſayer,</hi> I therefore acquieſce in what is impoſſible by thoſe that acknowledge the Scriptures of the New Teſtament to be conteſted.</p>
+            </div>
+            <div type="part">
+               <p>Let us then for a <hi>Concluſion of this whole Matter,</hi> ob<g ref="char:EOLhyphen"/>ſerve ſeveral Reaſons, why we may ſuppoſe no ſuch Cogent Indications of a <hi>Tenth part,</hi> in the <hi>Apoſtolick Writings,</hi> as agree with <hi>former Times</hi> of <hi>Scripture.</hi> To omit the great modeſty of the <hi>Goſpel,</hi> as to any ſecular Deſign I give theſe.</p>
+               <p n="1">1. Becauſe in the firſt miniſtration of the Apoſtles in <hi>Jeruſalem,</hi> ſo much above a <hi>Tenth part</hi> was freely given, that Chriſtians ſold <hi>Intire Poſſeſſions,</hi> and <hi>laid the Prices of them at the Apoſtles Feet; neither ſaid</hi>
+                  <note place="margin">Acts 4. 32.</note> 
+                  <hi>Any Man that ought he poſſeſſed was his own:</hi> And it is probable in all the Firſt Chriſtian Churches, Greater proportions, then the <hi>Tenth</hi> were offered for the ſervice of the Goſpel.</p>
+               <p n="2">2. That in the Affluence of Nations, States, and perſons; They might not think themſelves Circum<g ref="char:EOLhyphen"/>ſcrib'd, nor indeed diſcharg'd by a <hi>Tenth part</hi> as a Tri<g ref="char:EOLhyphen"/>bute to God: The <hi>Prieſts</hi> and <hi>Levites</hi> had much more
+<pb n="30" facs="tcp:102303:17"/> given them by God under <hi>the Law.</hi> Nor Any, whoſe Increaſe falls not under ordinary <hi>Decimation</hi> ſhould abſolve themſelves from the main Duty.</p>
+               <p n="3">3. Becauſe ſome Things clearly, and abundantly ſettled in their Formality in the <hi>Old Teſtament</hi> are more ſilently in the <hi>New</hi> applyed onely to the <hi>Goſpel pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>poſe,</hi> and <hi>Service.</hi>
+               </p>
+               <p>Thus the <hi>Lord's Day</hi> ſo evidently noted by the <hi>Firſt Day of the Week,</hi> the <hi>Day</hi> of our Lord's <hi>Reſurrectio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> of his ſeveral <hi>Appearances</hi> to his <hi>Diſciples,</hi> of the Effuſion of the Spirit, at <hi>Pentecoſt</hi> fully come for Preaching the<note place="margin">Acts 2 1.</note> Goſpel, as it had been of <hi>Giving the Law</hi> on Mount <hi>Si<g ref="char:EOLhyphen"/>nai,</hi> the <hi>Day</hi> of <hi>Chriſtian Sollemnities,</hi> and <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ollections</hi> is the onely <hi>Day of the Week,</hi> noted in all the Scripture, after the <hi>Six Days of Creation,</hi> except the <hi>Seventh,</hi> or <hi>Sabbath;</hi> and after it had been often remark'd under the name of the <hi>Firſt Day</hi> was at length conſecrated by the name of the <hi>Lord's Day,</hi> as <hi>Breaki<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g of Bre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> was by the name of the <hi>Lord</hi>'s <hi>Supper<g ref="char:punc">▪</g>
+                  </hi> Which Two Engraven with our <hi>Lord's Name,</hi> as in Capital Letters, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, are the Commemorations of Two of the Lords Great Actions (in which all the reſt Center) appointed us in his Word; viz. his <hi>Dying for Our Sins,</hi> and <hi>Riſing again for Our juſtification,</hi> one in a <hi>Sollemn Inſtitution,</hi> the other in a <hi>Solemn Time;</hi> and it were Happy, if they could at no Time be ſundred, one from the other.</p>
+               <p>Yet That <hi>This Day</hi> though the onely Inſtituted Time in the New Teſtament is to be a <hi>Sabbath;</hi> its Obſer<g ref="char:EOLhyphen"/>vation to be Weekly in memory of the <hi>Creat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on;</hi> Its Celebration to be by <hi>keeping it Holy:</hi> All theſe ſo prin<g ref="char:EOLhyphen"/>cipal Concernments are referr'd to the State of that Matter in the <hi>Old Teſtament,</hi> where every Thing is full and clear: And although the Reverſal of the <hi>Jewiſh Sabbath</hi> by the Apoſtle; the <hi>Firſt Day</hi> ſo ſollemnly Re<g ref="char:EOLhyphen"/>corded as the Day of the <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord</hi>'s <hi>Reſurrection</hi> and Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="31" facs="tcp:102303:17"/> Meetings; the Apoſtles Being in <hi>the Spirit</hi> on <hi>this Day;</hi> (though the principal Intendment be Propheti<g ref="char:EOLhyphen"/>cal) It's being ſtyl'd the <hi>Lord</hi>'s <hi>Day</hi> are very Great Cha<g ref="char:EOLhyphen"/>racters of a <hi>Chriſtian Sabbath;</hi> Yet the Importance and Ratification of ſuch a Sabbath are to be derived wholly from the <hi>Old Teſtament;</hi> No wonder then, if Devoting a <hi>Tenth Part</hi> to God, which cannot be ſuppoſed equal to <hi>God's Sanctification of a ſeventh part of Time</hi> be onely conſerv'd in the <hi>Old Testament,</hi> and confirm'd by our Lord in the <hi>Days of his Miniſtery,</hi> as a Standard of pro<g ref="char:EOLhyphen"/>portion, and yet not mention'd in that ſo undoubted point of Duty in the Apoſtolical Writings, viz. <hi>Let Him that is taught, Communicate to him that teacheth in All Good Things,</hi> fortified with ſo Tremendous a Monition; <hi>God is not mock'd.</hi>
+               </p>
+               <p n="4">4. That there might be no enſnaring Conſciences in regard of the various Revolutions of States and Laws determining this point of <hi>Decimation:</hi> Or not allowing the poſſibilities of it; either ſetting it a-part to the ſupport of a Falſe Religion, as under the <hi>Papacy,</hi> or to Secular uſes: In ſuch Caſes the Conſciences of Sub<g ref="char:EOLhyphen"/>jects<note place="margin">Gal 6. 6.</note> are Free, in rendring them according to Law, to <hi>Caeſar,</hi> as the <hi>Things that are Caeſars;</hi> For publick Acts having deveſted private perſons of them, they can have no propriety in them; although yet this Stan<g ref="char:EOLhyphen"/>dard of <hi>Dedication to God</hi> out of what they poſſeſs be<g ref="char:EOLhyphen"/>yond that <hi>Alienated Tenth</hi> obliges them ſtill to <hi>Ren<g ref="char:EOLhyphen"/>der</hi> to <hi>God</hi> the <hi>Things that are Gods.</hi>
+               </p>
+               <p>But eſpecially where Both Concur, the <hi>Laws of Men</hi> with the <hi>Laws of God;</hi> we at the ſame Time <hi>Render to</hi> Caeſar <hi>the Things that are</hi> Caeſar<hi>'s,</hi> in obeying <hi>Laws;</hi> and <hi>to God the Things that are God's,</hi> in that they are de<g ref="char:EOLhyphen"/>voted to his Service, and are therefore to do it with all <hi>Heartineſs</hi> and <hi>Chearfulneſs as to the Lord,</hi> and <hi>not to Men</hi> onely: <hi>For God loveth a Chearful Giver.</hi> No Man now can have any Juſt Reaſon of being Scanda<g ref="char:EOLhyphen"/>laiz'd
+<pb n="32" facs="tcp:102303:18"/> at the ſeparation of ſuch a <hi>Tenth</hi> for an <hi>Evange<g ref="char:EOLhyphen"/>lical Miniſtry,</hi> that duly weighs what hath been of<g ref="char:EOLhyphen"/>ferr'd.</p>
+               <p>And eſpecially ſeeing their whole Lives, the Educa<g ref="char:EOLhyphen"/>tion of their Youth, and the ſervice of their Age, are neceſſary to this Service, ſince the Ceſſation of ex<g ref="char:EOLhyphen"/>traordinary Gifts; and the Labour not only of the Mind but of the Body are ſequeſtred to it. <hi>Giving themſelves</hi> wholly to their Miniſtry, and <hi>Attending</hi> in private to <hi>Reading,</hi> as well as publickly to <hi>Exhortation,</hi> and <hi>Preaching in Seaſon,</hi> and <hi>without Seaſon,</hi> are expreſs<g ref="char:EOLhyphen"/>ly requir'd by the Apoſtle; ſo that it is but a Re<g ref="char:EOLhyphen"/>compenſe of Juſtice requir'd by God in this Caſe:</p>
+               <p>But if on any Account whatever, Any Man be un<g ref="char:EOLhyphen"/>ſatisfied in the <hi>Decimation, Laws</hi> impoſe upon him: He muſt conſider, nothing ſeparated by <hi>publick Acts,</hi> that have ſtood from Age to Age is any more any Man's claim by his <hi>Birth Right;</hi> then a wholſom Air, or Fruitful ſoil are, when his Country is not ſo happily ſcituated.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102303:18" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
